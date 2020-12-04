@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1607021269 source:c:\users\£ucja\desktop\projekt\projekt_algorytmy\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
